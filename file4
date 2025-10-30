@@ -1,2 +1,6 @@
 This is file4
+<<<<<<< HEAD
 This is line two in local
+=======
+This is line 2 in remote
+>>>>>>> 76d8b139058790d295324e2c7e49ec5215326fec
